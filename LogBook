@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Mike's Log Book</title>
+	</head>
+	<body>
+		<h1>LOG BOOK - Mike lynne-Davies</h1>
+		<hr />
+		<h2>Week 1</h2>
+		<ul>
+			<li>Familiarized self with project tool
+			<li>Researched CAN protocol and possible implementations
+			<li>Started Test Procedures
+		</uL>
+	</body>
+</html>
